@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tomoroki/static/css/main.4f16161f.css",
+    "main.js": "/tomoroki/static/js/main.efb5377c.js",
+    "static/js/453.55fc18f0.chunk.js": "/tomoroki/static/js/453.55fc18f0.chunk.js",
+    "index.html": "/tomoroki/index.html",
+    "main.4f16161f.css.map": "/tomoroki/static/css/main.4f16161f.css.map",
+    "main.efb5377c.js.map": "/tomoroki/static/js/main.efb5377c.js.map",
+    "453.55fc18f0.chunk.js.map": "/tomoroki/static/js/453.55fc18f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f16161f.css",
+    "static/js/main.efb5377c.js"
+  ]
+}
